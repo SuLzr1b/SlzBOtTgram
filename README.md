@@ -1,3 +1,3 @@
 # SlzBOtTgram
 
-## Telegram bot just for fu
+## Telegram bot just for fun
